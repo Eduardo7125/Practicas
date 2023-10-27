@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Medio id="M" xmlns="">
+    <literatura N="TXT">
+        <formato F="LLB">
+            <version V="ORG">
+                <soporte>
+                    <comprado> 
+                        <item id="00000" precio="" tipo="" editorial="" numEdicion="">
+                            <index>M/TXT/LLB/ORG/00000</index>
+                            <localidad> </localidad>
+                            <CentroComercial> </CentroComercial>
+                            <fechacompra dia="" mes="" año=""/>
+                            <titulo subtitulo=""></titulo>
+                            <fechaPublicacionLibro año=""/>
+                            <autor nombre="" apellido1="" apellido2=""/>
+                            <ciudadPublicacion></ciudadPublicacion>
+                            <lenguaLibro original="" traducido="">
+                                <traductor nombre="" apellido1="" apellido2=""/>
+                            </lenguaLibro>
+                        </item>
+                    </comprado>
+                    <regalado>
+                        <item id="00000" precio="" tipo="" editorial="" numEdicion="">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fechacompra dia="" mes="" año=""/>
+                            <titulo subtitulo=""></titulo>
+                            <fechaPublicacionLibro año=""/>
+                            <autor nombre="" apellido1="" apellido2=""/>
+                            <ciudadPublicacion></ciudadPublicacion>
+                            <lenguaLibro original="" traducido="">
+                                <traductor nombre="" apellido1="" apellido2=""/>
+                            </lenguaLibro>
+                        </item>
+                    </regalado>
+                </soporte>
+            </version>
+            <version V="CPY">
+                <soporte>
+                    <regalado>
+                        <item id="00000" precio="" tipo="" editorial="" numEdicion="">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fechacompra dia="" mes="" año=""/>
+                            <titulo subtitulo=""></titulo>
+                            <fechaPublicacionLibro año=""/>
+                            <autor nombre="" apellido1="" apellido2=""/>
+                            <ciudadPublicacion></ciudadPublicacion>
+                            <lenguaLibro original="" traducido="">
+                                <traductor nombre="" apellido1="" apellido2=""/>
+                            </lenguaLibro>
+                        </item>
+                    </regalado>
+                    <copiado>
+                        <item id="00000" precio="" tipo="" editorial="" numEdicion="">
+                            <index></index>
+                            <fechacompra dia="" mes="" año=""/>
+                            <titulo subtitulo=""></titulo>
+                            <fechaPublicacionLibro año=""/>
+                            <autor nombre="" apellido1="" apellido2=""/>
+                            <ciudadPublicacion></ciudadPublicacion>
+                            <lenguaLibro original="" traducido="">
+                                <traductor nombre="" apellido1="" apellido2=""/>
+                            </lenguaLibro>
+                        </item>
+                    </copiado>
+                </soporte>
+            </version>
+        </formato>
+        <formato F="RVT">
+            <version V="ORG">
+                <soporte>
+                    <comprado> 
+                        <item id="00000" precio="" editorial="" numEdicion="" numejemplar="" coleccion="" tipo="">
+                            <index>M/TXT/RVT/ORG/00000</index>
+                            <CentroComercial localidad=""> </CentroComercial>
+                            <fechacompra dia="" mes="" año=""/>
+                            <titulo subtitulo=""></titulo>
+                            <fechaPublicacionRevista año="" mes=""/>
+                        </item>
+                    </comprado>
+                    <regalado>
+                        <item id="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </regalado>
+                </soporte>
+            </version>
+            <version V="CPY">
+                <soporte>
+                    <regalado>
+                        <item id="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </regalado>
+                    <copiado>
+                        <item id="00000">
+                            <index></index>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </copiado>
+                </soporte>
+            </version>
+        </formato>
+    </literatura>
+    <musica N="AUD">
+        <formato F="DSC">
+            <version V="ORG">
+                <soporte>
+                    <comprado>
+                        <item id="00000">
+                            <index></index>
+                            <CentroComercial localidad=""> </CentroComercial>
+                            <fecha dia="" mes="" año=""/>
+                            <precio> </precio>
+                            <EstudioDeGrabacion FechaGrabacionAño=""/>
+                            <Fechagrabacion año=""/>
+                            <interprete NombreArtistico=""/>
+                            <Pista tituloPista="" numeroPista="" estiloMusical=""/>
+                            <duracion segundos=""/>
+                        </item> 
+                    </comprado>
+                    <regalado>
+                        <item id="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                            <EstudioDeGrabacion FechaGrabacionAño=""/>
+                            <Fechagrabacion año=""/>
+                            <interprete NombreArtistico=""/>
+                            <Pista tituloPista="" numeroPista="" estiloMusical=""/>
+                            <duracion segundos=""/>
+                        </item>
+                    </regalado>
+                </soporte>
+            </version>
+            <version V="CPY">
+                <soporte>
+                    <regalado>
+                        <item id="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                            <EstudioDeGrabacion FechaGrabacionAño=""/>
+                            <FechaGrabacion año=""/>
+                            <interprete NombreArtistico=""/>
+                            <Pista tituloPista="" numeroPista="" estiloMusical=""/>
+                            <duracion segundos=""/>
+                        </item>
+                    </regalado>
+                    <copiado>
+                        <item id="00000">
+                            <index></index>
+                            <fecha dia="" mes="" año=""/>
+                            <EstudioDeGrabacion FechaGrabacionAño=""/>
+                            <FechaGrabacion año=""/>
+                            <interprete NombreArtistico=""/>
+                            <Pista tituloPista="" numeroPista="" estiloMusical=""/>
+                            <duracion segundos=""/>
+                        </item>
+                    </copiado>
+                </soporte>
+            </version>
+        </formato>
+        <formato F="CST">
+            <version V="ORG">
+                <soporte>
+                    <comprado>
+                        <item id="00000">
+                            <index></index>
+                            <CentroComercial localidad=""> </CentroComercial>
+                            <fecha dia="" mes="" año=""/>
+                            <precio> </precio>
+                            <EstudioDeGrabacion FechaGrabacionAño=""/>
+                            <FechaGrabacion año=""/>
+                            <interprete NombreArtistico=""/>
+                            <Pista tituloPista="" numeroPista="" estiloMusical=""/>
+                            <duracion segundos=""/>
+                        </item>
+                    </comprado>
+                    <regalado>
+                        <item id="00000">
+                            <index></index>
+                            <EstudioDeGrabacion FechaGrabacionAño=""/>
+                            <FechaGrabacion año=""/>
+                            <interprete NombreArtistico=""/>
+                            <Pista tituloPista="" numeroPista="" estiloMusical=""/>
+                            <duracion segundos=""/>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </regalado>
+                </soporte>
+            </version>
+            <version V="CPY">
+                <soporte>
+                    <regalado>
+                        <item id="00000">
+                            <index></index>
+                            <EstudioDeGrabacion FechaGrabacionAño=""/>
+                            <FechaGrabacion año=""/>
+                            <interprete NombreArtistico=""/>
+                            <Pista tituloPista="" numeroPista="" estiloMusical=""/>
+                            <duracion segundos=""/>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </regalado>
+                    <copiado>
+                        <item id="00000">
+                            <index></index>
+                            <fecha dia="" mes="" año=""/>
+                            <EstudioDeGrabacion FechaGrabacionAño=""/>
+                            <FechaGrabacion año=""/>
+                            <interprete NombreArtistico=""/>
+                            <Pista tituloPista="" numeroPista="" estiloMusical=""/>
+                            <duracion segundos=""/>
+                        </item>
+                    </copiado>
+                </soporte>
+            </version>
+        </formato>
+        <formato F="CDA">
+            <version V="ORG">
+                <soporte>
+                    <comprado>
+                        <item id="00000">
+                            <index></index>
+                            <CentroComercial localidad=""> </CentroComercial>
+                            <fecha dia="" mes="" año=""/>
+                            <precio> </precio>
+                            <EstudioDeGrabacion FechaGrabacionAño=""/>
+                            <FechaGrabacion año=""/>
+                            <interprete NombreArtistico=""/>
+                            <Pista tituloPista="" numeroPista="" estiloMusical=""/>
+                        <duracion segundos=""/>
+                        </item> 
+                    </comprado>
+                    <regalado>
+                        <item id="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                            <EstudioDeGrabacion FechaGrabacionAño=""/>
+                            <FechaGrabacion año=""/>
+                            <interprete NombreArtistico=""/>
+                            <Pista tituloPista="" numeroPista="" estiloMusical=""/>
+                            <duracion segundos=""/>
+                        </item>
+                    </regalado>
+                </soporte>
+            </version>
+            <version V="CPY">
+                <soporte>
+                    <regalado>
+                        <item id="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                            <EstudioDeGrabacion FechaGrabacionAño=""/>
+                            <FechaGrabacion año=""/>
+                            <interprete NombreArtistico=""/>
+                            <Pista tituloPista="" numeroPista="" estiloMusical=""/>
+                            <duracion segundos=""/>
+                        </item>
+                    </regalado>
+                    <copiado>
+                        <item id="00000">
+                            <index></index>
+                            <fecha dia="" mes="" año=""/>
+                            <EstudioDeGrabacion FechaGrabacionAño=""/>
+                            <FechaGrabacion año=""/>
+                            <interprete NombreArtistico=""/>
+                            <Pista tituloPista="" numeroPista="" estiloMusical=""/>
+                            <duracion segundos=""/>
+                        </item>
+                    </copiado>
+                </soporte>
+            </version>
+        </formato>
+    </musica>
+    <cine N="VID">
+        <formato F="VHS">
+            <version V="ORG">
+                <soporte>
+                    <comprado> 
+                        <item id="00000">
+                            <index></index>
+                            <CentroComercial localidad=""> </CentroComercial>
+                            <fecha dia="" mes="" año=""/>
+                            <precio> </precio>
+                            <localizaciones></localizaciones>
+                            <fechaGrabacion años=""/>
+                            <director nombre="" apellido1="" apellido2=""/>
+                            <actorPrincipal nombre="" apellido1="" apellido2=""/>
+                            <actrizPrincipal nombre="" apellido1="" apellido2=""/>
+                            <compositorBS nombre="" apellido1="" apellido2=""/>
+                            <guionista nombre="" apellido1="" apellido2=""/>
+                            <productor nombre="" apellido1="" apellido2=""/>
+                            <titulo></titulo>
+                            <listaDeLenguas lenguaOriginal="" lenguasTraducidas=""/>
+                            <categoriaDramatica></categoriaDramatica>
+                        </item>
+                    </comprado>
+                    <regalado>
+                        <item id="00000">
+                            <index></index>
+                            <localizaciones></localizaciones>
+                            <fechaGrabacion años=""/>
+                            <director nombre="" apellido1="" apellido2=""/>
+                            <actorPrincipal nombre="" apellido1="" apellido2=""/>
+                            <actrizPrincipal nombre="" apellido1="" apellido2=""/>
+                            <compositorBS nombre="" apellido1="" apellido2=""/>
+                            <guionista nombre="" apellido1="" apellido2=""/>
+                            <productor nombre="" apellido1="" apellido2=""/>
+                            <titulo></titulo>
+                            <listaDeLenguas lenguaOriginal="" lenguasTraducidas=""/>
+                            <categoriaDramatica></categoriaDramatica>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </regalado>
+                </soporte>
+            </version>
+            <version V="CPY">
+                <soporte>
+                    <regalado>
+                        <item id="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                            <localizaciones></localizaciones>
+                            <fechaGrabacion años=""/>
+                            <director nombre="" apellido1="" apellido2=""/>
+                            <actorPrincipal nombre="" apellido1="" apellido2=""/>
+                            <actrizPrincipal nombre="" apellido1="" apellido2=""/>
+                            <compositorBS nombre="" apellido1="" apellido2=""/>
+                            <guionista nombre="" apellido1="" apellido2=""/>
+                            <productor nombre="" apellido1="" apellido2=""/>
+                            <titulo></titulo>
+                            <listaDeLenguas lenguaOriginal="" lenguasTraducidas=""/>
+                            <categoriaDramatica></categoriaDramatica>
+                        </item>
+                    </regalado>
+                    <copiado>
+                        <item id="00000">
+                            <index></index>
+                            <fecha dia="" mes="" año=""/>
+                            <localizaciones></localizaciones>
+                            <fechaGrabacion años=""/>
+                            <director nombre="" apellido1="" apellido2=""/>
+                            <actorPrincipal nombre="" apellido1="" apellido2=""/>
+                            <actrizPrincipal nombre="" apellido1="" apellido2=""/>
+                            <compositorBS nombre="" apellido1="" apellido2=""/>
+                            <guionista nombre="" apellido1="" apellido2=""/>
+                            <productor nombre="" apellido1="" apellido2=""/>
+                            <titulo></titulo>
+                            <listaDeLenguas lenguaOriginal="" lenguasTraducidas=""/>
+                            <categoriaDramatica></categoriaDramatica>
+                        </item>
+                    </copiado>
+                </soporte>
+            </version>
+        </formato>
+        <formato F="DVD">
+            <version V="ORG">
+                <soporte>
+                    <comprado> 
+                        <item id="00000">
+                            <index></index>
+                            <CentroComercial localidad=""> </CentroComercial>
+                            <fecha dia="" mes="" año=""/>
+                            <precio> </precio>
+                            <localizaciones></localizaciones>
+                            <fechaGrabacion años=""/>
+                            <director nombre="" apellido1="" apellido2=""/>
+                            <actorPrincipal nombre="" apellido1="" apellido2=""/>
+                            <actrizPrincipal nombre="" apellido1="" apellido2=""/>
+                            <compositorBS nombre="" apellido1="" apellido2=""/>
+                            <guionista nombre="" apellido1="" apellido2=""/>
+                            <productor nombre="" apellido1="" apellido2=""/>
+                            <titulo></titulo>
+                            <listaDeLenguas lenguaOriginal="" lenguasTraducidas=""/>
+                            <categoriaDramatica></categoriaDramatica>
+                        </item>
+                    </comprado>
+                    <regalado>
+                        <item id="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                            <localizaciones></localizaciones>
+                            <fechaGrabacion años=""/>
+                            <director nombre="" apellido1="" apellido2=""/>
+                            <actorPrincipal nombre="" apellido1="" apellido2=""/>
+                            <actrizPrincipal nombre="" apellido1="" apellido2=""/>
+                            <compositorBS nombre="" apellido1="" apellido2=""/>
+                            <guionista nombre="" apellido1="" apellido2=""/>
+                            <productor nombre="" apellido1="" apellido2=""/>
+                            <titulo></titulo>
+                            <listaDeLenguas lenguaOriginal="" lenguasTraducidas=""/>
+                            <categoriaDramatica></categoriaDramatica>
+                        </item>
+                    </regalado>
+                </soporte>
+            </version>
+            <version V="CPY">
+                <soporte>
+                    <regalado>
+                        <item id="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                            <localizaciones></localizaciones>
+                            <fechaGrabacion años=""/>
+                            <director nombre="" apellido1="" apellido2=""/>
+                            <actorPrincipal nombre="" apellido1="" apellido2=""/>
+                            <actrizPrincipal nombre="" apellido1="" apellido2=""/>
+                            <compositorBS nombre="" apellido1="" apellido2=""/>
+                            <guionista nombre="" apellido1="" apellido2=""/>
+                            <productor nombre="" apellido1="" apellido2=""/>
+                            <titulo></titulo>
+                            <listaDeLenguas lenguaOriginal="" lenguasTraducidas=""/>
+                            <categoriaDramatica></categoriaDramatica> 
+                        </item>
+                    </regalado>
+                    <copiado>
+                        <item id="00000">
+                            <index></index>
+                            <fecha dia="" mes="" año=""/>
+                            <localizaciones></localizaciones>
+                            <fechaGrabacion años=""/>
+                            <director nombre="" apellido1="" apellido2=""/>
+                            <actorPrincipal nombre="" apellido1="" apellido2=""/>
+                            <actrizPrincipal nombre="" apellido1="" apellido2=""/>
+                            <compositorBS nombre="" apellido1="" apellido2=""/>
+                            <guionista nombre="" apellido1="" apellido2=""/>
+                            <productor nombre="" apellido1="" apellido2=""/>
+                            <titulo></titulo>
+                            <listaDeLenguas lenguaOriginal="" lenguasTraducidas=""/>
+                            <categoriaDramatica></categoriaDramatica>
+                        </item>
+                    </copiado>
+                </soporte>
+            </version>
+        </formato>
+        <formato F="BRY">
+            <version V="ORG">
+                <soporte>
+                    <comprado> 
+                        <item id="00000">
+                            <index></index>
+                            <CentroComercial localidad=""> </CentroComercial>
+                            <fecha dia="" mes="" año=""/>
+                            <precio> </precio>
+                            <localizaciones></localizaciones>
+                            <fechaGrabacion años=""/>
+                            <director nombre="" apellido1="" apellido2=""/>
+                            <actorPrincipal nombre="" apellido1="" apellido2=""/>
+                            <actrizPrincipal nombre="" apellido1="" apellido2=""/>
+                            <compositorBS nombre="" apellido1="" apellido2=""/>
+                            <guionista nombre="" apellido1="" apellido2=""/>
+                            <productor nombre="" apellido1="" apellido2=""/>
+                            <titulo></titulo>
+                            <listaDeLenguas lenguaOriginal="" lenguasTraducidas=""/>
+                            <categoriaDramatica></categoriaDramatica>
+                        </item>
+                    </comprado>
+                    <regalado>
+                        <item id="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                            <localizaciones></localizaciones>
+                            <fechaGrabacion años=""/>
+                            <director nombre="" apellido1="" apellido2=""/>
+                            <actorPrincipal nombre="" apellido1="" apellido2=""/>
+                            <actrizPrincipal nombre="" apellido1="" apellido2=""/>
+                            <compositorBS nombre="" apellido1="" apellido2=""/>
+                            <guionista nombre="" apellido1="" apellido2=""/>
+                            <productor nombre="" apellido1="" apellido2=""/>
+                            <titulo></titulo>
+                            <listaDeLenguas lenguaOriginal="" lenguasTraducidas=""/>
+                            <categoriaDramatica></categoriaDramatica>
+                        </item>
+                    </regalado>
+                </soporte>
+            </version>
+            <version V="CPY">
+                <soporte>
+                    <regalado>
+                        <item id="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                            <localizaciones></localizaciones>
+                            <fechaGrabacion años=""/>
+                            <director nombre="" apellido1="" apellido2=""/>
+                            <actorPrincipal nombre="" apellido1="" apellido2=""/>
+                            <actrizPrincipal nombre="" apellido1="" apellido2=""/>
+                            <compositorBS nombre="" apellido1="" apellido2=""/>
+                            <guionista nombre="" apellido1="" apellido2=""/>
+                            <productor nombre="" apellido1="" apellido2=""/>
+                            <titulo></titulo>
+                            <listaDeLenguas lenguaOriginal="" lenguasTraducidas=""/>
+                            <categoriaDramatica></categoriaDramatica>
+                        </item>
+                    </regalado>
+                    <copiado>
+                        <item id="00000">
+                            <index></index>
+                            <fecha dia="" mes="" año=""/>
+                            <localizaciones></localizaciones>
+                            <fechaGrabacion años=""/>
+                            <director nombre="" apellido1="" apellido2=""/>
+                            <actorPrincipal nombre="" apellido1="" apellido2=""/>
+                            <actrizPrincipal nombre="" apellido1="" apellido2=""/>
+                            <compositorBS nombre="" apellido1="" apellido2=""/>
+                            <guionista nombre="" apellido1="" apellido2=""/>
+                            <productor nombre="" apellido1="" apellido2=""/>
+                            <titulo></titulo>
+                            <listaDeLenguas lenguaOriginal="" lenguasTraducidas=""/>
+                            <categoriaDramatica></categoriaDramatica>
+                        </item>
+                    </copiado>
+                </soporte>
+            </version>
+        </formato>
+    </cine>
+    <informatica N="PRG">
+        <formato F="DSK">
+            <version V="ORG">
+                <soporte>
+                    <comprado> 
+                        <item X="00000">
+                            <index>M/PRG/RVT/DSK/00000</index>
+                            <localidad> </localidad>
+                            <CentroComercial> </CentroComercial>
+                            <fecha dia="" mes="" año=""/>
+                            <precio> </precio>
+                        </item>
+                    </comprado>
+                    <regalado>
+                        <item X="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </regalado>
+                </soporte>
+            </version>
+            <version V="CPY">
+                <soporte>
+                    <regalado>
+                        <item X="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </regalado>
+                    <copiado>
+                        <item X="00000">
+                            <index></index>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </copiado>
+                </soporte>
+            </version>
+        </formato>
+        <formato F="CDP">
+            <version V="ORG">
+                <soporte>
+                    <comprado> 
+                        <item X="00000">
+                            <index></index>
+                            <CentroComercial localidad=""> </CentroComercial>
+                            <fecha dia="" mes="" año=""/>
+                            <precio> </precio>
+                        </item>
+                    </comprado>
+                    <regalado>
+                        <item X="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </regalado>
+                </soporte>
+            </version>
+            <version V="CPY">
+                <soporte>
+                    <regalado>
+                        <item X="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </regalado>
+                    <copiado>
+                        <item X="00000">
+                            <index></index>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </copiado>
+                </soporte>
+            </version>
+        </formato>
+        <formato F="DVP">
+            <version V="ORG">
+                <soporte>
+                    <comprado> 
+                        <item X="00000">
+                            <index></index>
+                            <CentroComercial localidad=""> </CentroComercial>
+                            <fecha dia="" mes="" año=""/>
+                            <precio> </precio>
+                        </item>
+                    </comprado>
+                    <regalado>
+                        <item X="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </regalado>
+                </soporte>
+            </version>
+            <version V="CPY">
+                <soporte>
+                    <regalado>
+                        <item X="00000">
+                            <index></index>
+                            <Persona nombre="" primer-apellido="" segundo-apellido=""/>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </regalado>
+                    <copiado>
+                        <item X="00000">
+                            <index></index>
+                            <fecha dia="" mes="" año=""/>
+                        </item>
+                    </copiado>
+                </soporte>
+            </version>
+        </formato>
+    </informatica>
+</Medio>
